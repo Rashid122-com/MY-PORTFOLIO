@@ -1,0 +1,14 @@
+.git
+.gitignore
+.next
+.venv
+node_modules
+*.py
+README.md
+AGENTS.md
+CLAUDE.md
+.env.local
+.env.*.local
+npm-debug.log
+.DS_Store
+dist
