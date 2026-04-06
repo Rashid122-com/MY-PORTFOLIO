@@ -25,7 +25,7 @@ export default function Home() {
         
         <Navbar />
 
-        <div id="about" className="relative w-full h-[500vh]">
+        <div id="about" className="relative w-full h-[400vh]">
           <ScrollyCanvas />
           <Overlay />
         </div>
